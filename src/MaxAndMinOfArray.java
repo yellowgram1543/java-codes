@@ -1,10 +1,9 @@
 import java.util.Scanner;
 public class MaxAndMinOfArray {
     public static void main(String[] args) {
-        int size;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of array: ");
-        size = sc.nextInt();
+        int size = sc.nextInt();
         int[]array = new int[size];
 
         System.out.println("Enter " + size + " elements");
