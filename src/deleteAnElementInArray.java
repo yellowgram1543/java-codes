@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class deleteAnElementInArray {
-    private static Scanner sc = new Scanner(System.in);
+    private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         System.out.println("Enter the size of the array: ");
-        int size = sc.nextInt();
+        int size = scanner.nextInt();
         if (size < 0) {
             System.out.println("Invalid size.");
             return;
@@ -14,13 +14,13 @@ public class deleteAnElementInArray {
 
         System.out.println("Enter " + size + " elements:");
         for (int i = 0; i < array.length; i++) {
-            array[i] = sc.nextInt();
+            array[i] = scanner.nextInt();
             System.out.print(array[i] + " ");
         }
         System.out.println();
 
         System.out.println("Enter the number you want to remove:");
-        int x = sc.nextInt();
+        int x = scanner.nextInt();
 
         int[] newArray = deleteElement(array, x);
 
