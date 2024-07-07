@@ -1,4 +1,4 @@
-public class Loop_patterns_1{
+public class a12_Loop_pattern_1 {
     public static void main(String[] args) {
 /*
 print the following pattern:

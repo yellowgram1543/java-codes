@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class multiplicationTable {
+public class a2_multiplicationTable {
     public static void main(String[] args) {
      Scanner scanner = new Scanner(System.in);
         System.out.println(" Enter a number for which you want to generate the multiplication table");

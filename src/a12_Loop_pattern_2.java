@@ -1,5 +1,5 @@
 
-public class Loop_pattern_2 {
+public class a12_Loop_pattern_2 {
     public static void main(String[] args) {
 
  /*

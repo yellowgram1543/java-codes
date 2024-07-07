@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class fibonnaciSeries {
+public class a9_fibonnaciSeries {
     public static void main(String[] args) {
        Scanner scanner = new Scanner(System.in);
         System.out.println("Enter any number: ");

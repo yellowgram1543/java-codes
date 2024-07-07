@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MaxAndMinOfArray {
+public class a14_MaxAndMinOfArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of array: ");

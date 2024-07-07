@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class deleteAnElement {
+public class a16_deleteAnElement {
     private static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.println("Enter the size of array: ");

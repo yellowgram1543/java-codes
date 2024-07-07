@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Factorial {
+public class a4_Factorial {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("For which number do you want the factorial of: ");
