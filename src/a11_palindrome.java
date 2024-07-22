@@ -1,15 +1,15 @@
 import java.util.Scanner;
-public class a11_palindrone {
+public class a11_palindrome {
     public static void main(String[] args) {
        Scanner scanner = new Scanner(System.in);
         System.out.println("Enter any number: ");
         int num = scanner.nextInt();
-        int palindrone1 = reverse(num);
-        if (palindrone1 == num){
-            System.out.println("It is a palindrone");
+        int palindrome = reverse(num);
+        if (palindrome == num){
+            System.out.println("It is a palindrome");
         }
         else{
-            System.out.println("It is not a palindrone");
+            System.out.println("It is not a palindrome");
         }
     }
     public static int reverse(int num){
