@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class a10_armstrongNumber {
+public class a9_armstrongNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number you want to check");

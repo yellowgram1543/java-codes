@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class a8_primeNumber {
+public class a7_primeNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter any number: ");

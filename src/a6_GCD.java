@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class a7_GCD {
+public class a6_GCD {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the first number: ");

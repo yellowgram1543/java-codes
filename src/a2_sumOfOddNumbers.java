@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class a3_sumOfOddNumbers {
+public class a2_sumOfOddNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the last number till where you want the sum: ");

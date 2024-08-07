@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class a6_LCM {
+public class a5_LCM {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your first number: ");

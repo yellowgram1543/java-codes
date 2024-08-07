@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class a12_sumandavg_in_array {
+public class a11_sumandavg_in_array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of array: ");
